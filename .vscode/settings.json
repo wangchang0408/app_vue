@@ -1,0 +1,9 @@
+{
+    "vetur.completion.scaffoldSnippetSources": {
+    
+    },
+    "eslint.alwaysShowStatus": true,
+    "eslint.codeAction.disableRuleComment": {
+    
+    }
+}
