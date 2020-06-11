@@ -22,6 +22,15 @@ Vue.use(ElementUI)
 
 Vue.config.productionTip = false
 
+/*Vue.prototype.$http=axios
+
+this.$http.get("接口地址","参数").then(res => {
+  //回调函数
+});
+this.$http.post("接口地址","参数").then(res => {
+  //回调函数
+});*/
+
 /* eslint-disable no-new */
 new Vue({
   el: '#app',
