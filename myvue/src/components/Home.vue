@@ -5,13 +5,16 @@
           <div class="hot-wrapper">
             <div class="tip">热门搜索</div>
             <div class="label-wraper">
-              <div class="label">笔记本</div>
-              <div class="label">电视机</div>
-              <div class="label">手机</div>
-              <div class="label">汽车</div>
+              <div class="label">华为P40</div>
+              <div class="label">iPad</div>
+              <div class="label">小牛电动车</div>
+              <div class="label">格力空调</div>
             </div>
           </div>
         </search-bar>
+      <div class="tabhead">
+        <TabHead></TabHead>
+      </div>
     </div>
     <TabBar></TabBar>
   </div>
@@ -19,7 +22,7 @@
 
 <script>
   import TabBar from '@/components/TabBar';
-
+  import TabHead from '@/components/TabHead';
   export default {
     name: "Home",
     data() {
@@ -28,10 +31,18 @@
       };
     },
     components: {
-      TabBar
+      TabBar,
+      TabHead
     },
     methods: {
       onSearch(value){
+        //发送get请求
+        this.$http.get('url地址').then(function(res){
+          document.write(res.body);
+        },function(){
+          console.log('请求失败处理');
+        });
+
       },
       onChange(value){
       }
