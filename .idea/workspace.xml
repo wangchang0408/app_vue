@@ -1,11 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d68f470a-9ec4-473b-a8df-ea427e10f1b0" name="Default" comment="修改一下">
+    <list default="true" id="d68f470a-9ec4-473b-a8df-ea427e10f1b0" name="Default" comment="修改一下2.0">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/myvue/src/App.vue" beforeDir="false" afterPath="$PROJECT_DIR$/myvue/src/App.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/myvue/src/components/Home.vue" beforeDir="false" afterPath="$PROJECT_DIR$/myvue/src/components/Home.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/myvue/src/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/myvue/src/main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/myvue/src/components/dnbgComponent/ComputureWork.vue" beforeDir="false" afterPath="$PROJECT_DIR$/myvue/src/components/dnbgComponent/ComputureWork.vue" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -18,11 +16,20 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/myvue/src/components/dnbgComponent/ComputureWork.vue">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="125">
-              <caret line="5" column="29" selection-start-line="5" selection-start-column="29" selection-end-line="5" selection-end-column="29" />
+            <state relative-caret-position="175">
+              <caret line="7" column="27" lean-forward="true" selection-start-line="7" selection-start-column="27" selection-end-line="7" selection-end-column="27" />
               <folding>
                 <element signature="n#style#0;n#div#0;n#el-card#0;n#el-col#0;n#el-row#0;n#div#0;n#template#0;n#!!top" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/myvue/src/components/Login.vue">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="50">
+              <caret line="2" column="29" lean-forward="true" selection-start-line="2" selection-start-column="29" selection-end-line="2" selection-end-column="29" />
             </state>
           </provider>
         </entry>
@@ -181,6 +188,7 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\DoApp\QD_App\myvue\src\components" />
       <recent name="D:\myvue\myvue\src\components" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
@@ -330,7 +338,7 @@
       <workItem from="1591839935120" duration="863000" />
       <workItem from="1591840889558" duration="7999000" />
       <workItem from="1591940772411" duration="594000" />
-      <workItem from="1592037651138" duration="10273000" />
+      <workItem from="1592037651138" duration="10818000" />
     </task>
     <task id="LOCAL-00001" summary="修改一下">
       <created>1591845378784</created>
@@ -339,11 +347,18 @@
       <option name="project" value="LOCAL" />
       <updated>1591845378784</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="修改一下2.0">
+      <created>1592049008748</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1592049008748</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="79246000" />
+    <option name="totallyTimeSpent" value="79791000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -358,7 +373,7 @@
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.14880952" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.22693452" />
       <window_info id="Structure" order="1" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -373,7 +388,7 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.3289689" />
       <window_info anchor="bottom" id="Version Control" order="7" weight="0.3295082" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="8" visible="true" weight="0.04918033" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="8" visible="true" weight="0.19344263" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
       <window_info anchor="bottom" id="Docker" order="10" show_stripe_button="false" />
       <window_info anchor="bottom" id="TypeScript" order="11" />
@@ -433,7 +448,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="修改一下" />
-    <option name="LAST_COMMIT_MESSAGE" value="修改一下" />
+    <MESSAGE value="修改一下2.0" />
+    <option name="LAST_COMMIT_MESSAGE" value="修改一下2.0" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/myvue/node_modules/vue-search-bar/package-lock.json" />
@@ -605,13 +621,6 @@
     <entry file="file://$PROJECT_DIR$/myvue/src/assets/logo.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/myvue/src/components/Login.vue">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="100">
-          <caret line="4" column="10" lean-forward="true" selection-start-line="4" selection-start-column="10" selection-end-line="4" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/myvue/src/assets/logo1.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
@@ -632,10 +641,17 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/myvue/src/components/Login.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="50">
+          <caret line="2" column="29" lean-forward="true" selection-start-line="2" selection-start-column="29" selection-end-line="2" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/myvue/src/components/dnbgComponent/ComputureWork.vue">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="125">
-          <caret line="5" column="29" selection-start-line="5" selection-start-column="29" selection-end-line="5" selection-end-column="29" />
+        <state relative-caret-position="175">
+          <caret line="7" column="27" lean-forward="true" selection-start-line="7" selection-start-column="27" selection-end-line="7" selection-end-column="27" />
           <folding>
             <element signature="n#style#0;n#div#0;n#el-card#0;n#el-col#0;n#el-row#0;n#div#0;n#template#0;n#!!top" expanded="true" />
           </folding>
